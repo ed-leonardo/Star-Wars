@@ -6,7 +6,7 @@
 > Aplicação que consome busca personagens do Star Wars na api do portal Swapi.
 > O repositório tem fins acadêmicos, sendo avaliado na disciplina Linguagem de Programação III, na instituição Faculdade de Tecnologia Termomecanica
 
-### 🏠 [Homepage](https://inspiring-khorana-3e8b82.netlify.app/)
+### 🏠 [Homepage](https://star-wars-eduardo.herokuapp.com/)
 
 ## Install
 
